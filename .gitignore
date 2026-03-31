@@ -11,6 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
+.homelab-mover
+.homelab-demo
 
 # Editor directories and files
 .vscode/*
